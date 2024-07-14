@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+🌱 I’m currently learning Next.js and Go 
+🎈 I like music production and playing guitar 
+🌟 I have goal to tour the beautiful Scotland 
+
+
+
 <!--
 **panshul-17/panshul-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
