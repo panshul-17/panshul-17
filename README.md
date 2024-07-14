@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Next.js and Go 
-🎈 I like music production and playing guitar 
-🌟 I have goal to tour the beautiful Scotland 
+- 🌱 I’m currently learning Next.js and Go 
+- 🎈 I like music production and playing guitar 
+- 🌟 I have goal to tour the beautiful Scotland 
 
 
 
